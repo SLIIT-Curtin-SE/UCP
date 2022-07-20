@@ -1,0 +1,14 @@
+1.
+(A) Recieves a number from 1 to 9 from the user and then if it is equal to 5 it will output correct and wrong if it is not equal to 5
+(B) Recieves a number from the user and then prints out the increments of 1 from 1 until that number. Can swap out the while loop for a 
+for loop.
+(C) Takes in two integers using functions and then outputs the sum of squares of the two integers.
+
+2.
+(A) No need for any forward declarations as none of them call each other.
+(B) 2, 3, 4, 5 require forward declarations.
+(C) No functions require forward declarations.
+(D) The 2nd, 3rd and 4th functions require forward declarations because the 1st function is calling it. The 5th doesn't require
+forward declarations.
+(E) Only the 5th Function require forward declarations as the 2, 3, 4 comes before. There is no difficulty in the 2,3,4 programs 
+in calling the 1st.
